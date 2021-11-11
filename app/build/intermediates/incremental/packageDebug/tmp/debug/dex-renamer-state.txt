@@ -1,0 +1,4 @@
+#Thu Nov 11 17:19:07 CST 2021
+base.0=/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

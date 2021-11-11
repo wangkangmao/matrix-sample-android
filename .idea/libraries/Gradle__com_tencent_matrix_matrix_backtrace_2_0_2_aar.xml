@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.matrix:matrix-backtrace:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-backtrace/2.0.2/d8d8b8bbe2929f798343fe0f1167df8a2063ea96/matrix-backtrace-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-backtrace/2.0.2/a873561ee32023de8e64be2fe6bb7e972b58bfe1/matrix-backtrace-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

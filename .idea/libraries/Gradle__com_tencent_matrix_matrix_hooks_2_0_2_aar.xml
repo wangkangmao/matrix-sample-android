@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.matrix:matrix-hooks:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e47fe1ea034fe962243ceb7e5f09c506/jetified-matrix-hooks-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e47fe1ea034fe962243ceb7e5f09c506/jetified-matrix-hooks-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e47fe1ea034fe962243ceb7e5f09c506/jetified-matrix-hooks-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-hooks/2.0.2/3501669cf15159bd4aa9a63ab97615ba2cf013b/matrix-hooks-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-hooks/2.0.2/60a2fdf68e7928722f9a266b67b2cdfe395dae1c/matrix-hooks-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

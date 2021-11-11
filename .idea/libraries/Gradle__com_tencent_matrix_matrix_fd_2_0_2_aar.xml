@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.matrix:matrix-fd:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4c4076a96ed3d66d958e7bb4fa0361/jetified-matrix-fd-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4c4076a96ed3d66d958e7bb4fa0361/jetified-matrix-fd-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4c4076a96ed3d66d958e7bb4fa0361/jetified-matrix-fd-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-fd/2.0.2/be96d831ffccc4922f8f2992f732b4909511e547/matrix-fd-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-fd/2.0.2/3456f9b345d991ba82061c5aa4dae59fbec3f01b/matrix-fd-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

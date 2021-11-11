@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.matrix:matrix-resource-canary-common:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-resource-canary-common/2.0.2/f41fb4a170b6c6caef325f351c28674d1ff7f7f4/matrix-resource-canary-common-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-resource-canary-common/2.0.2/276a8dd1fe62400e494b53e6c9cbbcd03e999dde/matrix-resource-canary-common-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-resource-canary-common/2.0.2/49583839f9c297aacd148ebe5cee3fba7cbd4f66/matrix-resource-canary-common-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

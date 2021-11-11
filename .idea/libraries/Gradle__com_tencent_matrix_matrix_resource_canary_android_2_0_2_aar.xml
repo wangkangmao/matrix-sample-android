@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.matrix:matrix-resource-canary-android:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-resource-canary-android/2.0.2/a43190ae20184299efefebd6135e675f2299f903/matrix-resource-canary-android-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-resource-canary-android/2.0.2/10dadeb63545ad6b4cc2698cea76d58822c6dd4f/matrix-resource-canary-android-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

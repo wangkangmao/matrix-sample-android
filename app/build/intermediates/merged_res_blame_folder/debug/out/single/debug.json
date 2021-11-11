@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_issue_list.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_issue_list.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_leak.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_leak.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_hooks.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_hooks.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_item_issue_list.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/item_issue_list.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/xml_sqlite_lint_whitelist.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/xml/sqlite_lint_whitelist.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_unused_layout_dup.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/unused_layout_dup.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_fragment.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/fragment.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_device.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/device.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_io.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_io.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_issue_detail.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_issue_detail.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_battery.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_battery.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_sqlite_lint.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_sqlite_lint.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/anim_slide_right_in.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/anim/slide_right_in.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_test_leak.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_test_leak.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_fps_layout.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_fps_layout.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_fragment.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_fragment.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_activity_manual_dump.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/activity_manual_dump.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/drawable_welcome_bg.jpg.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/drawable/welcome_bg.jpg"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_test_trace.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/test_trace.xml"
+    },
+    {
+        "merged": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/build/intermediates/res/merged/debug/layout_unused_layout.xml.flat",
+        "source": "/Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/res/layout/unused_layout.xml"
+    }
+]

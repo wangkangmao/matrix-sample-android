@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [com.tencent.matrix:matrix-battery-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/76dd8643d6703010846b9dbc4bd1a7aa/jetified-matrix-battery-canary-2.0.2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:2:1-16:12
+MERGED from [com.tencent.matrix:matrix-io-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3dc2f4af10666fe172b0dcd615375251/jetified-matrix-io-canary-2.0.2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:2:1-31:12
+MERGED from [com.tencent.matrix:matrix-hooks:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/e47fe1ea034fe962243ceb7e5f09c506/jetified-matrix-hooks-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.matrix:matrix-android-commons:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92976c7a971b8a88deef544fe89f6e27/jetified-matrix-android-commons-2.0.2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:2:1-33:12
+MERGED from [com.tencent.matrix:matrix-fd:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3c4c4076a96ed3d66d958e7bb4fa0361/jetified-matrix-fd-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.matrix:matrix-jectl:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/2bcc11f232d2b12a922aa8c675d7892d/jetified-matrix-jectl-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:2:1-25:12
+MERGED from [com.tencent.matrix:matrix-android-lib:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92207d3e2a8e262ce655da38120d2027/jetified-matrix-android-lib-2.0.2/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/160d7bd9dbd5b451fd33af0717f80b89/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/0df2d4315a78a85581832ecbae9dfd53/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/7bea1f6cc615b90d0dcb73104168fbcd/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/f95d764841b88009f62675f86271b3e1/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/5eb753245142e424bfec2a5badcf9ef1/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/48a14c8a7c46a2eb4258bc230b228c73/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/5d32e458cd18d531f2c5d86821363a2b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/13c6f2a8aaedca7f522b5dc68f602110/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/59d058f684f155c43fc71e4ac3489976/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/7015181b95afb0b8d3e6ec1d6051edba/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/6a566e1f2728e1a051f8de88a382f191/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/86223803f77282738720e7974e92581b/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/8c33d94c471737dd3139908baf3f57ab/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/856a1615f1ec0cbfbd0384fecbad1bfd/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/770ae0700424e1a776ad5dc1c6f5798c/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/6ffa34af92f2390ce1fd6ca065dcd27a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/1ccf0e69cd6ca6af210e4b3395bcc314/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/04a5368b8005c93cb8a0d87a0385eb8d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/59818e21a148150176abdaf5bc2a2435/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a81f20c21b1cb7cb3d35b9c68ed60695/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/d15be4b2718320d3e3298fc1349fab36/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+	package
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:3:11-42
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:11:5-81
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:7:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:10:5-78
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:11:5-78
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:10:22-75
+application
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:12:5-45:19
+MERGED from [com.tencent.matrix:matrix-battery-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/76dd8643d6703010846b9dbc4bd1a7aa/jetified-matrix-battery-canary-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-battery-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/76dd8643d6703010846b9dbc4bd1a7aa/jetified-matrix-battery-canary-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:13:5-14:19
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:13:5-14:19
+MERGED from [com.tencent.matrix:matrix-io-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3dc2f4af10666fe172b0dcd615375251/jetified-matrix-io-canary-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-io-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3dc2f4af10666fe172b0dcd615375251/jetified-matrix-io-canary-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:11:5-29:19
+MERGED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:11:5-29:19
+MERGED from [com.tencent.matrix:matrix-android-commons:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92976c7a971b8a88deef544fe89f6e27/jetified-matrix-android-commons-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-android-commons:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92976c7a971b8a88deef544fe89f6e27/jetified-matrix-android-commons-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:19:5-31:19
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:19:5-31:19
+MERGED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:17:5-23:19
+MERGED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:17:5-23:19
+MERGED from [com.tencent.matrix:matrix-android-lib:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92207d3e2a8e262ce655da38120d2027/jetified-matrix-android-lib-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [com.tencent.matrix:matrix-android-lib:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92207d3e2a8e262ce655da38120d2027/jetified-matrix-android-lib-2.0.2/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/86223803f77282738720e7974e92581b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/86223803f77282738720e7974e92581b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/856a1615f1ec0cbfbd0384fecbad1bfd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/856a1615f1ec0cbfbd0384fecbad1bfd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/86223803f77282738720e7974e92581b/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:13:9-42
+activity#sample.tencent.matrix.MainActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:19:19-47
+activity#sample.tencent.matrix.issue.IssuesListActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:23:9-93
+	android:launchMode
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:23:60-91
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:23:19-59
+activity#sample.tencent.matrix.SplashActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:25:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:29:27-74
+activity#sample.tencent.matrix.resource.ManualDumpActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:32:19-62
+activity#sample.tencent.matrix.io.TestIOActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:33:19-52
+activity#sample.tencent.matrix.resource.TestLeakActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:34:9-35:42
+	android:process
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:35:13-40
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:34:19-60
+activity#sample.tencent.matrix.trace.TestTraceMainActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:36:9-65
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:36:19-62
+activity#sample.tencent.matrix.trace.TestTraceFragmentActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:37:9-69
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:37:19-66
+activity#sample.tencent.matrix.trace.TestEnterActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:38:19-58
+activity#sample.tencent.matrix.trace.TestFpsActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:39:9-59
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:39:19-56
+activity#sample.tencent.matrix.sqlitelint.TestSQLiteLintActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:40:9-71
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:40:19-68
+activity#sample.tencent.matrix.battery.TestBatteryActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:41:9-65
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:41:19-62
+activity#sample.tencent.matrix.hooks.TestHooksActivity
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:42:9-61
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:42:19-58
+service#sample.tencent.matrix.hooks.OtherProcessService
+ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:44:9-86
+	android:process
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:44:60-84
+	android:name
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml:44:18-59
+uses-sdk
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+MERGED from [com.tencent.matrix:matrix-battery-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/76dd8643d6703010846b9dbc4bd1a7aa/jetified-matrix-battery-canary-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-battery-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/76dd8643d6703010846b9dbc4bd1a7aa/jetified-matrix-battery-canary-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-trace-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/bb95e15a2db053bcc2c2abaf59ab2572/jetified-matrix-trace-canary-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-io-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3dc2f4af10666fe172b0dcd615375251/jetified-matrix-io-canary-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-io-canary:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3dc2f4af10666fe172b0dcd615375251/jetified-matrix-io-canary-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-hooks:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/e47fe1ea034fe962243ceb7e5f09c506/jetified-matrix-hooks-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-hooks:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/e47fe1ea034fe962243ceb7e5f09c506/jetified-matrix-hooks-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-android-commons:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92976c7a971b8a88deef544fe89f6e27/jetified-matrix-android-commons-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-android-commons:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92976c7a971b8a88deef544fe89f6e27/jetified-matrix-android-commons-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-fd:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3c4c4076a96ed3d66d958e7bb4fa0361/jetified-matrix-fd-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-fd:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3c4c4076a96ed3d66d958e7bb4fa0361/jetified-matrix-fd-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-jectl:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/2bcc11f232d2b12a922aa8c675d7892d/jetified-matrix-jectl-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-jectl:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/2bcc11f232d2b12a922aa8c675d7892d/jetified-matrix-jectl-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-android-lib:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92207d3e2a8e262ce655da38120d2027/jetified-matrix-android-lib-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.matrix:matrix-android-lib:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/92207d3e2a8e262ce655da38120d2027/jetified-matrix-android-lib-2.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/160d7bd9dbd5b451fd33af0717f80b89/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/160d7bd9dbd5b451fd33af0717f80b89/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/0df2d4315a78a85581832ecbae9dfd53/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/0df2d4315a78a85581832ecbae9dfd53/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/7bea1f6cc615b90d0dcb73104168fbcd/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/7bea1f6cc615b90d0dcb73104168fbcd/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/f95d764841b88009f62675f86271b3e1/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/f95d764841b88009f62675f86271b3e1/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/5eb753245142e424bfec2a5badcf9ef1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/5eb753245142e424bfec2a5badcf9ef1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/48a14c8a7c46a2eb4258bc230b228c73/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/48a14c8a7c46a2eb4258bc230b228c73/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/5d32e458cd18d531f2c5d86821363a2b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/5d32e458cd18d531f2c5d86821363a2b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/13c6f2a8aaedca7f522b5dc68f602110/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/13c6f2a8aaedca7f522b5dc68f602110/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/59d058f684f155c43fc71e4ac3489976/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/59d058f684f155c43fc71e4ac3489976/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/7015181b95afb0b8d3e6ec1d6051edba/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/7015181b95afb0b8d3e6ec1d6051edba/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/6a566e1f2728e1a051f8de88a382f191/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/6a566e1f2728e1a051f8de88a382f191/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/86223803f77282738720e7974e92581b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/86223803f77282738720e7974e92581b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/8c33d94c471737dd3139908baf3f57ab/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/8c33d94c471737dd3139908baf3f57ab/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/856a1615f1ec0cbfbd0384fecbad1bfd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/856a1615f1ec0cbfbd0384fecbad1bfd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/770ae0700424e1a776ad5dc1c6f5798c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/770ae0700424e1a776ad5dc1c6f5798c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/6ffa34af92f2390ce1fd6ca065dcd27a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/6ffa34af92f2390ce1fd6ca065dcd27a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/1ccf0e69cd6ca6af210e4b3395bcc314/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/1ccf0e69cd6ca6af210e4b3395bcc314/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/04a5368b8005c93cb8a0d87a0385eb8d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/04a5368b8005c93cb8a0d87a0385eb8d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/59818e21a148150176abdaf5bc2a2435/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/59818e21a148150176abdaf5bc2a2435/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a81f20c21b1cb7cb3d35b9c68ed60695/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a81f20c21b1cb7cb3d35b9c68ed60695/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/d15be4b2718320d3e3298fc1349fab36/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/d15be4b2718320d3e3298fc1349fab36/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangkm/Documents/code/android/matrix-master/samples/sample-android/app/src/main/AndroidManifest.xml
+activity#com.tencent.sqlitelint.behaviour.alert.CheckedDatabaseListActivity
+ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:12:9-18:20
+	android:label
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:16:13-39
+	android:exported
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:14:13-36
+	android:icon
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:15:13-54
+	android:taskAffinity
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:17:13-58
+	android:name
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:13:13-94
+activity#com.tencent.sqlitelint.behaviour.alert.CheckResultActivity
+ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:19:9-23:20
+	android:launchMode
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:21:13-43
+	android:taskAffinity
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:22:13-58
+	android:name
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:20:13-86
+activity#com.tencent.sqlitelint.behaviour.alert.IssueDetailActivity
+ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:24:9-28:20
+	android:launchMode
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:26:13-43
+	android:taskAffinity
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.tencent.matrix:matrix-sqlite-lint-android-sdk:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/3ffb713eaf5bf335d49a5464ce099580/jetified-matrix-sqlite-lint-android-sdk-2.0.2/AndroidManifest.xml:25:13-86
+permission#${applicationId}.manual.dump
+ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:14:9-52
+permission#sample.tencent.matrix.manual.dump
+ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:14:9-52
+uses-permission#${applicationId}.manual.dump
+ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:17:22-65
+uses-permission#sample.tencent.matrix.manual.dump
+ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:17:22-65
+service#com.tencent.matrix.resource.CanaryWorkerService
+ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:20:9-25:19
+	android:process
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:24:13-46
+	android:exported
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:22:13-37
+	android:permission
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:23:13-69
+	android:name
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:21:13-75
+service#com.tencent.matrix.resource.CanaryResultService
+ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.tencent.matrix:matrix-resource-canary-android:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/19e32284c1b89477ce296dac9efd74ee/jetified-matrix-resource-canary-android-2.0.2/AndroidManifest.xml:27:13-75
+permission#${applicationId}.backtrace.warmed_up
+ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:12:9-60
+permission#sample.tencent.matrix.backtrace.warmed_up
+ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:12:9-60
+uses-permission#${applicationId}.backtrace.warmed_up
+ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:15:22-73
+uses-permission#sample.tencent.matrix.backtrace.warmed_up
+ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:15:22-73
+service#com.tencent.matrix.backtrace.WarmUpService
+ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:18:9-22:46
+	android:process
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:22:13-43
+	android:enabled
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:20:13-35
+	android:exported
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.tencent.matrix:matrix-backtrace:2.0.2] /Users/wangkm/.gradle/caches/transforms-2/files-2.1/a97745863671a51b7b98f9e7c39e902f/jetified-matrix-backtrace-2.0.2/AndroidManifest.xml:19:13-70

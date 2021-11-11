@@ -1,0 +1,100 @@
+sample/tencent/matrix/trace/StartUpContentProvider.java
+ sample.tencent.matrix.trace.StartUpContentProvider
+sample/tencent/matrix/issue/ParseIssueUtil.java
+ sample.tencent.matrix.issue.ParseIssueUtil
+sample/tencent/matrix/trace/StartUpBroadcastReceiver.java
+ sample.tencent.matrix.trace.StartUpBroadcastReceiver
+sample/tencent/matrix/battery/TestBatteryActivity.java
+ sample.tencent.matrix.battery.TestBatteryActivity
+ sample.tencent.matrix.battery.TestBatteryActivity$1
+ sample.tencent.matrix.battery.TestBatteryActivity$2
+ sample.tencent.matrix.battery.TestBatteryActivity$2$1
+ sample.tencent.matrix.battery.TestBatteryActivity$3
+ sample.tencent.matrix.battery.TestBatteryActivity$4
+sample/tencent/matrix/hooks/OtherProcessService.java
+ sample.tencent.matrix.hooks.OtherProcessService
+sample/tencent/matrix/io/TestIOActivity.java
+ sample.tencent.matrix.io.TestIOActivity
+ sample.tencent.matrix.io.TestIOActivity$1
+sample/tencent/matrix/trace/StartUpService.java
+ sample.tencent.matrix.trace.StartUpService
+sample/tencent/matrix/hooks/TestHooksActivity.java
+ sample.tencent.matrix.hooks.TestHooksActivity
+ sample.tencent.matrix.hooks.TestHooksActivity$1
+ sample.tencent.matrix.hooks.TestHooksActivity$2
+ sample.tencent.matrix.hooks.TestHooksActivity$3
+sample/tencent/matrix/config/MatrixEnum.java
+ sample.tencent.matrix.config.MatrixEnum
+sample/tencent/matrix/MainActivity.java
+ sample.tencent.matrix.MainActivity
+ sample.tencent.matrix.MainActivity$1
+ sample.tencent.matrix.MainActivity$2
+ sample.tencent.matrix.MainActivity$3
+ sample.tencent.matrix.MainActivity$4
+ sample.tencent.matrix.MainActivity$5
+ sample.tencent.matrix.MainActivity$6
+sample/tencent/matrix/trace/TestOtherProcessActivity.java
+ sample.tencent.matrix.trace.TestOtherProcessActivity
+sample/tencent/matrix/issue/IssueFilter.java
+ sample.tencent.matrix.issue.IssueFilter
+ sample.tencent.matrix.issue.IssueFilter$FILTER
+sample/tencent/matrix/config/DynamicConfigImplDemo.java
+ sample.tencent.matrix.config.DynamicConfigImplDemo
+sample/tencent/matrix/hooks/JNIObj.java
+ sample.tencent.matrix.hooks.JNIObj
+sample/tencent/matrix/trace/TestStartUpActivity.java
+ sample.tencent.matrix.trace.TestStartUpActivity
+sample/tencent/matrix/trace/TestTraceFragmentActivity.java
+ sample.tencent.matrix.trace.TestTraceFragmentActivity
+ sample.tencent.matrix.trace.TestTraceFragmentActivity$1
+ sample.tencent.matrix.trace.TestTraceFragmentActivity$2
+sample/tencent/matrix/issue/IssuesMap.java
+ sample.tencent.matrix.issue.IssuesMap
+sample/tencent/matrix/trace/TestTraceMainActivity.java
+ sample.tencent.matrix.trace.TestTraceMainActivity
+ sample.tencent.matrix.trace.TestTraceMainActivity$AssertionArrayException
+sample/tencent/matrix/resource/ManualDumpActivity.java
+ sample.tencent.matrix.resource.ManualDumpActivity
+ sample.tencent.matrix.resource.ManualDumpActivity$1
+ sample.tencent.matrix.resource.ManualDumpActivity$1$1
+sample/tencent/matrix/trace/SecondFragment.java
+ sample.tencent.matrix.trace.SecondFragment
+sample/tencent/matrix/listener/TestPluginListener.java
+ sample.tencent.matrix.listener.TestPluginListener
+ sample.tencent.matrix.listener.TestPluginListener$1
+sample/tencent/matrix/trace/TestFpsActivity.java
+ sample.tencent.matrix.trace.TestFpsActivity
+ sample.tencent.matrix.trace.TestFpsActivity$1
+ sample.tencent.matrix.trace.TestFpsActivity$2
+ sample.tencent.matrix.trace.TestFpsActivity$3
+ sample.tencent.matrix.trace.TestFpsActivity$4
+sample/tencent/matrix/sqlitelint/TestDBHelper.java
+ sample.tencent.matrix.sqlitelint.TestDBHelper
+sample/tencent/matrix/resource/TestLeakActivity.java
+ sample.tencent.matrix.resource.TestLeakActivity
+sample/tencent/matrix/sqlitelint/TestSQLiteLintHelper.java
+ sample.tencent.matrix.sqlitelint.TestSQLiteLintHelper
+sample/tencent/matrix/trace/TestEnterActivity.java
+ sample.tencent.matrix.trace.TestEnterActivity
+sample/tencent/matrix/MatrixApplication.java
+ sample.tencent.matrix.MatrixApplication
+ sample.tencent.matrix.MatrixApplication$1
+sample/tencent/matrix/battery/BatteryCanaryInitHelper.java
+ sample.tencent.matrix.battery.BatteryCanaryInitHelper
+ sample.tencent.matrix.battery.BatteryCanaryInitHelper$1
+ sample.tencent.matrix.battery.BatteryCanaryInitHelper$BatteryStatsListener
+sample/tencent/matrix/issue/IssuesListActivity.java
+ sample.tencent.matrix.issue.IssuesListActivity
+ sample.tencent.matrix.issue.IssuesListActivity$Adapter
+ sample.tencent.matrix.issue.IssuesListActivity$Adapter$1
+ sample.tencent.matrix.issue.IssuesListActivity$ViewHolder
+sample/tencent/matrix/sqlitelint/TestSQLiteLintActivity.java
+ sample.tencent.matrix.sqlitelint.TestSQLiteLintActivity
+ sample.tencent.matrix.sqlitelint.TestSQLiteLintActivity$1
+sample/tencent/matrix/trace/FirstFragment.java
+ sample.tencent.matrix.trace.FirstFragment
+sample/tencent/matrix/SplashActivity.java
+ sample.tencent.matrix.SplashActivity
+ sample.tencent.matrix.SplashActivity$1
+sample/tencent/matrix/BuildConfig.java
+ sample.tencent.matrix.BuildConfig
