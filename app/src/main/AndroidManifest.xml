@@ -29,17 +29,17 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".resource.ManualDumpActivity"/>
-        <activity android:name=".io.TestIOActivity" />
+        <activity android:name=".resource.ManualDumpActivity" android:launchMode="singleTask"/>
+        <activity android:name=".io.TestIOActivity" android:launchMode="singleTask" />
         <activity android:name=".resource.TestLeakActivity"
-            android:process=":leaktest"/>
-        <activity android:name=".trace.TestTraceMainActivity" />
-        <activity android:name=".trace.TestTraceFragmentActivity" />
-        <activity android:name=".trace.TestEnterActivity" />
-        <activity android:name=".trace.TestFpsActivity" />
-        <activity android:name=".sqlitelint.TestSQLiteLintActivity" />
-        <activity android:name=".battery.TestBatteryActivity" />
-        <activity android:name=".hooks.TestHooksActivity" />
+            android:process=":leaktest" android:launchMode="singleTask"/>
+        <activity android:name=".trace.TestTraceMainActivity" android:launchMode="singleTask" />
+        <activity android:name=".trace.TestTraceFragmentActivity"  android:launchMode="singleTask"/>
+        <activity android:name=".trace.TestEnterActivity" android:launchMode="singleTask"/>
+        <activity android:name=".trace.TestFpsActivity" android:launchMode="singleTask"/>
+        <activity android:name=".sqlitelint.TestSQLiteLintActivity" android:launchMode="singleTask"/>
+        <activity android:name=".battery.TestBatteryActivity" android:launchMode="singleTask"/>
+        <activity android:name=".hooks.TestHooksActivity" android:launchMode="singleTask"/>
 
         <service android:name=".hooks.OtherProcessService" android:process=":other"/>
     </application>
